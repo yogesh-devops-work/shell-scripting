@@ -2,7 +2,7 @@
 
 In this repo we will keep the shell scripting files..
 
-shell scripting:
+shell scripting topic:
 -----------------
 1. Printing
 2. 
