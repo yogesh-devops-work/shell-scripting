@@ -1,9 +1,9 @@
 #!/bin/bash
 
 ##### Change these values ###
-ZONE_ID="Z0366464237Z7LZLZPKFA"
-DOMAIN="devopsb70.online"
-SG_NAME="allow-all"
+ZONE_ID="Z003612230I7YQX85F5CP"
+DOMAIN="aidevops.online"
+SG_NAME="my-all-trafic"
 env=dev
 #############################
 
